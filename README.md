@@ -30,3 +30,9 @@ Expense records use the following fields:
 
 ```text
 2026-08-01,Transport,Bus fare,1200,NGN
+```
+
+## Migration status
+[GitLab repository URL](https://gitlab.com/thatmonksama/expense-tracker)
+
+The `expenses.csv` file is present in the imported repository.
