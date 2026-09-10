@@ -1,0 +1,6 @@
+{
+  "currency": "NGN",
+  "data_file": "expenses.csv",
+  "date_format": "YYYY-MM-DD",
+  "decimal_places": 2
+}
